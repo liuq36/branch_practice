@@ -1,6 +1,7 @@
 # Favorite Things
 
 These are a few of my favorite things:
+- hello partner! :-)
 _ Flowers(dasises)
 - roses
 - Raindrops on roses
